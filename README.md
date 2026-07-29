@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yatintyagi37/leetcode1/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yatintyagi37/leetcode1/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yatintyagi37/leetcode1/tree/master/0014-longest-common-prefix) |
 ## Trie
@@ -28,10 +29,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yatintyagi37/leetcode1/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yatintyagi37/leetcode1/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yatintyagi37/leetcode1/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yatintyagi37/leetcode1/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yatintyagi37/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
