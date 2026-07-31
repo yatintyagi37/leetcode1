@@ -46,6 +46,7 @@
 | [0012-integer-to-roman](https://github.com/yatintyagi37/leetcode1/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yatintyagi37/leetcode1/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yatintyagi37/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/yatintyagi37/leetcode1/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yatintyagi37/leetcode1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yatintyagi37/leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yatintyagi37/leetcode1/tree/master/3536-maximum-product-of-two-digits) |
