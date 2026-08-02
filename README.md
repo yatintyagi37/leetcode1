@@ -72,6 +72,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/yatintyagi37/leetcode1/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/yatintyagi37/leetcode1/tree/master/0371-sum-of-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yatintyagi37/leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/yatintyagi37/leetcode1/tree/master/1260-shift-2d-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/yatintyagi37/leetcode1/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
