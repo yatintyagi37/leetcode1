@@ -16,6 +16,7 @@
 | [0881-boats-to-save-people](https://github.com/yatintyagi37/leetcode1/tree/master/0881-boats-to-save-people) |
 | [1260-shift-2d-grid](https://github.com/yatintyagi37/leetcode1/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yatintyagi37/leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/yatintyagi37/leetcode1/tree/master/1480-running-sum-of-1d-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yatintyagi37/leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yatintyagi37/leetcode1/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/yatintyagi37/leetcode1/tree/master/1480-running-sum-of-1d-array) |
 ## Recursion
 |  |
 | ------- |
