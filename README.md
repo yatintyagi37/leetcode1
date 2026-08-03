@@ -31,6 +31,7 @@
 | [0520-detect-capital](https://github.com/yatintyagi37/leetcode1/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yatintyagi37/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yatintyagi37/leetcode1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yatintyagi37/leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yatintyagi37/leetcode1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -53,6 +54,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/yatintyagi37/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/yatintyagi37/leetcode1/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yatintyagi37/leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yatintyagi37/leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yatintyagi37/leetcode1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yatintyagi37/leetcode1/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
@@ -61,6 +63,7 @@
 | [0012-integer-to-roman](https://github.com/yatintyagi37/leetcode1/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yatintyagi37/leetcode1/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/yatintyagi37/leetcode1/tree/master/0560-subarray-sum-equals-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yatintyagi37/leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 | [0881-boats-to-save-people](https://github.com/yatintyagi37/leetcode1/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yatintyagi37/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yatintyagi37/leetcode1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yatintyagi37/leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -101,6 +105,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yatintyagi37/leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yatintyagi37/leetcode1/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
