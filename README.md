@@ -116,6 +116,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/yatintyagi37/leetcode1/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/yatintyagi37/leetcode1/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/yatintyagi37/leetcode1/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/yatintyagi37/leetcode1/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
