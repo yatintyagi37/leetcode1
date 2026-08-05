@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yatintyagi37/leetcode1/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/yatintyagi37/leetcode1/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/yatintyagi37/leetcode1/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yatintyagi37/leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -62,6 +63,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yatintyagi37/leetcode1/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/yatintyagi37/leetcode1/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yatintyagi37/leetcode1/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/yatintyagi37/leetcode1/tree/master/0560-subarray-sum-equals-k) |
