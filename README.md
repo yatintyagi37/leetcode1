@@ -10,6 +10,7 @@
 | [0045-jump-game-ii](https://github.com/yatintyagi37/leetcode1/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/yatintyagi37/leetcode1/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/yatintyagi37/leetcode1/tree/master/0162-find-peak-element) |
+| [0238-product-of-array-except-self](https://github.com/yatintyagi37/leetcode1/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/yatintyagi37/leetcode1/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/yatintyagi37/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yatintyagi37/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
@@ -119,6 +120,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yatintyagi37/leetcode1/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/yatintyagi37/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/yatintyagi37/leetcode1/tree/master/1480-running-sum-of-1d-array) |
 ## Recursion
