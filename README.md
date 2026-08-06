@@ -98,6 +98,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/yatintyagi37/leetcode1/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yatintyagi37/leetcode1/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/yatintyagi37/leetcode1/tree/master/0371-sum-of-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yatintyagi37/leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -170,6 +171,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/yatintyagi37/leetcode1/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yatintyagi37/leetcode1/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
