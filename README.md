@@ -18,6 +18,7 @@
 | [0877-stone-game](https://github.com/yatintyagi37/leetcode1/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/yatintyagi37/leetcode1/tree/master/0881-boats-to-save-people) |
 | [1260-shift-2d-grid](https://github.com/yatintyagi37/leetcode1/tree/master/1260-shift-2d-grid) |
+| [1288-remove-covered-intervals](https://github.com/yatintyagi37/leetcode1/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yatintyagi37/leetcode1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yatintyagi37/leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yatintyagi37/leetcode1/tree/master/1480-running-sum-of-1d-array) |
@@ -61,6 +62,7 @@
 | [0075-sort-colors](https://github.com/yatintyagi37/leetcode1/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yatintyagi37/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/yatintyagi37/leetcode1/tree/master/0881-boats-to-save-people) |
+| [1288-remove-covered-intervals](https://github.com/yatintyagi37/leetcode1/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yatintyagi37/leetcode1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yatintyagi37/leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yatintyagi37/leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
