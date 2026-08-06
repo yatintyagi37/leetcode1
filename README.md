@@ -98,6 +98,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/yatintyagi37/leetcode1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yatintyagi37/leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yatintyagi37/leetcode1/tree/master/3536-maximum-product-of-two-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yatintyagi37/leetcode1/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yatintyagi37/leetcode1/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Euclidean Algorithm
 |  |
 | ------- |
