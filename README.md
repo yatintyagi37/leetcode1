@@ -200,5 +200,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/yatintyagi37/leetcode1/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yatintyagi37/leetcode1/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
