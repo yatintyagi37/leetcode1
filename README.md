@@ -20,6 +20,7 @@
 | [1260-shift-2d-grid](https://github.com/yatintyagi37/leetcode1/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yatintyagi37/leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yatintyagi37/leetcode1/tree/master/1480-running-sum-of-1d-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yatintyagi37/leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
@@ -32,6 +33,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/yatintyagi37/leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/yatintyagi37/leetcode1/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yatintyagi37/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yatintyagi37/leetcode1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yatintyagi37/leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yatintyagi37/leetcode1/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -49,6 +51,7 @@
 | [0075-sort-colors](https://github.com/yatintyagi37/leetcode1/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yatintyagi37/leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
 | [0881-boats-to-save-people](https://github.com/yatintyagi37/leetcode1/tree/master/0881-boats-to-save-people) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Sorting
 |  |
 | ------- |
