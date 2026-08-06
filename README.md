@@ -21,6 +21,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yatintyagi37/leetcode1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yatintyagi37/leetcode1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yatintyagi37/leetcode1/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/yatintyagi37/leetcode1/tree/master/1920-build-array-from-permutation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yatintyagi37/leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/yatintyagi37/leetcode1/tree/master/1260-shift-2d-grid) |
+| [1920-build-array-from-permutation](https://github.com/yatintyagi37/leetcode1/tree/master/1920-build-array-from-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
