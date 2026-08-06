@@ -13,6 +13,7 @@
 | [0162-find-peak-element](https://github.com/yatintyagi37/leetcode1/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/yatintyagi37/leetcode1/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/yatintyagi37/leetcode1/tree/master/0486-predict-the-winner) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yatintyagi37/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yatintyagi37/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yatintyagi37/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/yatintyagi37/leetcode1/tree/master/0877-stone-game) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/yatintyagi37/leetcode1/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/yatintyagi37/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
