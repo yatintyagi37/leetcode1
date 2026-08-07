@@ -11,6 +11,7 @@
 | [0045-jump-game-ii](https://github.com/yatintyagi37/leetcode1/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/yatintyagi37/leetcode1/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/yatintyagi37/leetcode1/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/yatintyagi37/leetcode1/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/yatintyagi37/leetcode1/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/yatintyagi37/leetcode1/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yatintyagi37/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0015-3sum](https://github.com/yatintyagi37/leetcode1/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/yatintyagi37/leetcode1/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/yatintyagi37/leetcode1/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yatintyagi37/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/yatintyagi37/leetcode1/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/yatintyagi37/leetcode1/tree/master/1288-remove-covered-intervals) |
@@ -79,6 +81,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/yatintyagi37/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/yatintyagi37/leetcode1/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yatintyagi37/leetcode1/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/yatintyagi37/leetcode1/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/yatintyagi37/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/yatintyagi37/leetcode1/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yatintyagi37/leetcode1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -127,6 +130,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yatintyagi37/leetcode1/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yatintyagi37/leetcode1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yatintyagi37/leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yatintyagi37/leetcode1/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -175,6 +179,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yatintyagi37/leetcode1/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/yatintyagi37/leetcode1/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yatintyagi37/leetcode1/tree/master/0191-number-of-1-bits) |
 ## Linked List
@@ -204,4 +209,8 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/yatintyagi37/leetcode1/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yatintyagi37/leetcode1/tree/master/3345-smallest-divisible-digit-product-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yatintyagi37/leetcode1/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
