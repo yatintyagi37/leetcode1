@@ -16,6 +16,7 @@
 | [0486-predict-the-winner](https://github.com/yatintyagi37/leetcode1/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yatintyagi37/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yatintyagi37/leetcode1/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/yatintyagi37/leetcode1/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yatintyagi37/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/yatintyagi37/leetcode1/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/yatintyagi37/leetcode1/tree/master/0881-boats-to-save-people) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/yatintyagi37/leetcode1/tree/master/0045-jump-game-ii) |
+| [0605-can-place-flowers](https://github.com/yatintyagi37/leetcode1/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/yatintyagi37/leetcode1/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yatintyagi37/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yatintyagi37/leetcode1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
