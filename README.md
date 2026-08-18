@@ -61,6 +61,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/yatintyagi37/leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
 | [0881-boats-to-save-people](https://github.com/yatintyagi37/leetcode1/tree/master/0881-boats-to-save-people) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/yatintyagi37/leetcode1/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/yatintyagi37/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/yatintyagi37/leetcode1/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/yatintyagi37/leetcode1/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/yatintyagi37/leetcode1/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yatintyagi37/leetcode1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yatintyagi37/leetcode1/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yatintyagi37/leetcode1/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/yatintyagi37/leetcode1/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
