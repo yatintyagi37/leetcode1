@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yatintyagi37/leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/yatintyagi37/leetcode1/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/yatintyagi37/leetcode1/tree/master/0075-sort-colors) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yatintyagi37/leetcode1/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/yatintyagi37/leetcode1/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/yatintyagi37/leetcode1/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/yatintyagi37/leetcode1/tree/master/0238-product-of-array-except-self) |
@@ -142,6 +143,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yatintyagi37/leetcode1/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/yatintyagi37/leetcode1/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yatintyagi37/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
 ## String Matching
