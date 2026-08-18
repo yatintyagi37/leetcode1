@@ -30,6 +30,7 @@
 | [1920-build-array-from-permutation](https://github.com/yatintyagi37/leetcode1/tree/master/1920-build-array-from-permutation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/yatintyagi37/leetcode1/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yatintyagi37/leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
@@ -90,6 +91,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/yatintyagi37/leetcode1/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yatintyagi37/leetcode1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yatintyagi37/leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/yatintyagi37/leetcode1/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
