@@ -1,40 +1,36 @@
-import java.util.*;
-
 class Solution {
-    long hi;
-    int n;
-    int[] coins;
-    List<List<Long>> sets;
-
     public long findKthSmallest(int[] coins, int k) {
-        this.coins = coins;
-        this.n = coins.length;
+        int n = coins.length;
 
-        long minCoin = Long.MAX_VALUE;
-        for (int coin : coins) {
-            minCoin = Math.min(minCoin, coin);
+        long lo = 1;
+        long hi = (long) coins[0] * k;
+
+        int totalMasks = 1 << n;
+        long[] lcm = new long[totalMasks];
+
+        lcm[0] = 1;
+
+        // Calculate LCM for every subset
+        for (int mask = 1; mask < totalMasks; mask++) {
+            int bit = Integer.numberOfTrailingZeros(mask);
+            int prev = mask & (mask - 1);
+
+            long g = gcd(lcm[prev], coins[bit]);
+            long value = lcm[prev] / g;
+
+            // Avoid overflow
+            if (value > hi / coins[bit]) {
+                lcm[mask] = hi + 1;
+            } else {
+                lcm[mask] = value * coins[bit];
+            }
         }
 
-        long lo = minCoin;
-        hi = minCoin * k;
-
-        // sets[i] stores LCMs of combinations having i coins
-        sets = new ArrayList<>();
-
-        for (int i = 0; i <= n; i++) {
-            sets.add(new ArrayList<>());
-        }
-
-        // Generate all combinations and their LCM
-        for (int i = 0; i < n; i++) {
-            setCreation(1L, 1, i);
-        }
-
-        // Binary Search
+        // Binary search
         while (lo < hi) {
             long mid = lo + (hi - lo) / 2;
 
-            if (getRank(mid) >= k) {
+            if (count(mid, lcm, n) >= k) {
                 hi = mid;
             } else {
                 lo = mid + 1;
@@ -44,35 +40,26 @@ class Solution {
         return lo;
     }
 
-    private void setCreation(long val, int setNumber, int idx) {
-        val = lcm(val, coins[idx]);
+    private long count(long x, long[] lcm, int n) {
+        long result = 0;
 
-        if (val > hi) {
-            return;
-        }
+        for (int mask = 1; mask < (1 << n); mask++) {
+            long d = lcm[mask];
 
-        sets.get(setNumber).add(val);
+            if (d > x) {
+                continue;
+            }
 
-        for (int i = idx + 1; i < n; i++) {
-            setCreation(val, setNumber + 1, i);
-        }
-    }
+            long multiples = x / d;
 
-    private long getRank(long value) {
-        long rank = 0;
-
-        for (int i = 1; i <= n; i++) {
-            for (long lcmValue : sets.get(i)) {
-
-                if (i % 2 != 0) {
-                    rank += value / lcmValue;
-                } else {
-                    rank -= value / lcmValue;
-                }
+            if (Integer.bitCount(mask) % 2 == 1) {
+                result += multiples;
+            } else {
+                result -= multiples;
             }
         }
 
-        return rank;
+        return result;
     }
 
     private long gcd(long a, long b) {
@@ -82,9 +69,5 @@ class Solution {
             b = temp;
         }
         return a;
-    }
-
-    private long lcm(long a, long b) {
-        return (a / gcd(a, b)) * b;
     }
 }
