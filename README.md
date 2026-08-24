@@ -30,6 +30,7 @@
 | [1920-build-array-from-permutation](https://github.com/yatintyagi37/leetcode1/tree/master/1920-build-array-from-permutation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yatintyagi37/leetcode1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yatintyagi37/leetcode1/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yatintyagi37/leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
@@ -105,6 +106,7 @@
 | [2396-strictly-palindromic-number](https://github.com/yatintyagi37/leetcode1/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/yatintyagi37/leetcode1/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yatintyagi37/leetcode1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yatintyagi37/leetcode1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yatintyagi37/leetcode1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yatintyagi37/leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yatintyagi37/leetcode1/tree/master/3536-maximum-product-of-two-digits) |
@@ -115,6 +117,7 @@
 | [0190-reverse-bits](https://github.com/yatintyagi37/leetcode1/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yatintyagi37/leetcode1/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/yatintyagi37/leetcode1/tree/master/0371-sum-of-two-integers) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yatintyagi37/leetcode1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yatintyagi37/leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
 |  |
@@ -148,6 +151,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yatintyagi37/leetcode1/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/yatintyagi37/leetcode1/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yatintyagi37/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yatintyagi37/leetcode1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String Matching
 |  |
 | ------- |
@@ -200,6 +204,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yatintyagi37/leetcode1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yatintyagi37/leetcode1/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Euclidean Algorithm
 |  |
@@ -226,4 +231,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/yatintyagi37/leetcode1/tree/master/2396-strictly-palindromic-number) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yatintyagi37/leetcode1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
