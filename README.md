@@ -19,6 +19,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/yatintyagi37/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/yatintyagi37/leetcode1/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yatintyagi37/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
+| [0705-design-hashset](https://github.com/yatintyagi37/leetcode1/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/yatintyagi37/leetcode1/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/yatintyagi37/leetcode1/tree/master/0881-boats-to-save-people) |
 | [1260-shift-2d-grid](https://github.com/yatintyagi37/leetcode1/tree/master/1260-shift-2d-grid) |
@@ -89,6 +90,7 @@
 | [0013-roman-to-integer](https://github.com/yatintyagi37/leetcode1/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/yatintyagi37/leetcode1/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/yatintyagi37/leetcode1/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/yatintyagi37/leetcode1/tree/master/0705-design-hashset) |
 | [1331-rank-transform-of-an-array](https://github.com/yatintyagi37/leetcode1/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yatintyagi37/leetcode1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yatintyagi37/leetcode1/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -201,6 +203,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yatintyagi37/leetcode1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/yatintyagi37/leetcode1/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yatintyagi37/leetcode1/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/yatintyagi37/leetcode1/tree/master/0705-design-hashset) |
 ## Number Theory
 |  |
 | ------- |
@@ -236,4 +239,12 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yatintyagi37/leetcode1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/yatintyagi37/leetcode1/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/yatintyagi37/leetcode1/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
