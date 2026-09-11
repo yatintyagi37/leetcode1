@@ -100,6 +100,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/yatintyagi37/leetcode1/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yatintyagi37/leetcode1/tree/master/0013-roman-to-integer) |
+| [0326-power-of-three](https://github.com/yatintyagi37/leetcode1/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/yatintyagi37/leetcode1/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/yatintyagi37/leetcode1/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yatintyagi37/leetcode1/tree/master/0628-maximum-product-of-three-numbers) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yatintyagi37/leetcode1/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/yatintyagi37/leetcode1/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/yatintyagi37/leetcode1/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
