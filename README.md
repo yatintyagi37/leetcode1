@@ -43,6 +43,7 @@
 | [0013-roman-to-integer](https://github.com/yatintyagi37/leetcode1/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yatintyagi37/leetcode1/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yatintyagi37/leetcode1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/yatintyagi37/leetcode1/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yatintyagi37/leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/yatintyagi37/leetcode1/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yatintyagi37/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -62,6 +63,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yatintyagi37/leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yatintyagi37/leetcode1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/yatintyagi37/leetcode1/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/yatintyagi37/leetcode1/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yatintyagi37/leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
 | [0881-boats-to-save-people](https://github.com/yatintyagi37/leetcode1/tree/master/0881-boats-to-save-people) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/yatintyagi37/leetcode1/tree/master/1961-check-if-string-is-a-prefix-of-array) |
